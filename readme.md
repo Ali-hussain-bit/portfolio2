@@ -1,1 +1,1 @@
-I am a frontend developer.
+I am a frontend developer. This is a showcase portfolio website.
