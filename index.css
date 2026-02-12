@@ -567,3 +567,11 @@ width: 100%;
     display: flex;
     gap: 40px;
 }
+@media (max-width:790px) {
+    .foot{
+        flex-direction: column;
+        /* width: 100%; */
+    }
+    
+    
+}
